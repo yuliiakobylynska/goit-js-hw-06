@@ -22,7 +22,7 @@ input {
   align-items: center;
   justify-content: center;
   margin-top: 50px;
-  flex-basis: calc((100% - 60px) / 3);
+  flex-basis: calc((100% - 50px) / 3);
 }
 
 .gallery > li {
